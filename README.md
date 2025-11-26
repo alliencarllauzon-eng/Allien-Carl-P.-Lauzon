@@ -1,1 +1,20 @@
-# Allien-Carl-P.-Lauzon
+# 👋 Hi, I'm Allen Carl P. Lauzon
+
+## 📌 Name
+Allen Carl P. Lauzon
+
+## 🎓 Education
+- BS Information Technology (BSIT)
+- New Era University
+
+## 📜 Certifications
+- SQL and Relational Databases 101 (CognitiveClass)
+
+## 🧠 Skillsets
+- Java
+- Python (Basic)
+- SQL
+- HTML/CSS
+- Software Troubleshooting
+- Hardware Troubleshooting
+- Networking Basics
