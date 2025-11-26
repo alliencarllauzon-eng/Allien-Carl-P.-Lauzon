@@ -11,10 +11,6 @@ Allen Carl P. Lauzon
 - SQL and Relational Databases 101 (CognitiveClass)
 
 ## 🧠 Skillsets
-- Java
-- Python (Basic)
-- SQL
 - HTML/CSS
-- Software Troubleshooting
 - Hardware Troubleshooting
 - Networking Basics
