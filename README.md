@@ -8,9 +8,11 @@ Allen Carl P. Lauzon
 - New Era University
 
 ## 📜 Certifications
-- SQL and Relational Databases 101 (CognitiveClass)
+- SQL and Relational Databases 101  
+  ✔ Certificate: [View Certificate](https://courses.cognitiveclass.ai/certificates/0e48e040376441ccb5b5581ff75fe697)
 
 ## 🧠 Skillsets
+- SQL
 - HTML/CSS
 - Hardware Troubleshooting
 - Networking Basics
